@@ -1,0 +1,48 @@
+1. test movement 1
+ place 0, 0, north
+ move
+ move
+ right
+ move
+ left
+ move
+ move
+ right
+ move
+ report 
+
+o/p: robot location 2,4 towards East
+
+
+2. test movement 2
+ place 1,2,east
+ move
+ move
+ left
+ move
+ right
+ right
+ move
+ right
+ move
+ report
+
+o/p: robot location 2,2 towards West
+
+3. test movement 3
+ place 5,5 south
+ //Crossing the table. (as table is of 5 x 5 units we can enter x, y in the range 0-4)
+ place 4,4 south
+ move
+ move
+ move
+ right
+ move
+ move
+ left
+ move
+ move
+ //Wrong move 
+ report
+
+o/p: robot location 2,0 towards south
