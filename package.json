@@ -1,0 +1,21 @@
+{
+  "name": "toy-robot",
+  "version": "1.0.0",
+  "description": "This application is a simulation of a toy robot moving on a square tabletop, of dimensions 5 units x 5 units",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikrishnajinna/toy-robot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narayansiddhu/toy-robot/issues"
+  },
+  "homepage": "https://github.com/saikrishnajinna/toy-robot"
+}
