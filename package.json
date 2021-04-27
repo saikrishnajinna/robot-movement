@@ -1,5 +1,5 @@
 {
-  "name": "robot movement",
+  "name": "robot-movement",
   "version": "1.0.0",
   "description": "This application is a simulation of a robot moving on a square table of dimensions 5 x 5 units",
   "main": "index.js",
